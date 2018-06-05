@@ -2,7 +2,11 @@ DOCUMENTAÇÃO das Interfaces, Protocolos e Módulos de Comunicação
 
 Willian Kazuo Okamoto, Julio Cano, Matheus Martins, Leonardo
 
-   Nossa aplicação vai ser web com Placa Arduino Uno utilizando o módulo de Bluetooth que irá se conectar pelo protocolo firmata. No caso iremos usar um aplicativo android para controlar o carrinho.
+   Nossa aplicação vai ser web com Placa Arduino Uno utilizando o módulo de Bluetooth que irá se conectar pelo protocolo firmata. No caso iremos usar um aplicativo android para controlar o carrinho. 
+   
+Aplicativo:
+
+Bluetooth RC Controller
 
 Componentes:
 
